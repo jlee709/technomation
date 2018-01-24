@@ -1,0 +1,25 @@
+[
+  {
+    "id":0,
+    "title": "BitCoin",
+    "description": "Bitcoin is a cryptocurrency and worldwide payment system.[9]:3 It is the first decentralized digital currency, as the system works without a central bank or single administrator.[9]:1[10] The network is peer-to-peer and transactions take place between users directly, without an intermediary.[9]:4 These transactions are verified by network nodes through the use of cryptography and recorded in a public distributed ledger called a blockchain. Bitcoin was invented by an unknown person or group of people under the name Satoshi Nakamoto[11] and released as open-source software in 2009.[12]" 
+  },
+  {
+    "id":1,
+    "title": "Smart-Contracts",
+    "description": "Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network. Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism. They render transactions traceable, transparent, and irreversible."
+  },
+  {
+    "id":2,
+    "title": "IOT",
+    "description": "The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction."
+  },
+  {
+   "id":3,
+   "title": "Concurrency",
+   "description": "In computer science, concurrency refers to the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems. In more technical terms, concurrency refers to the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units" 
+  },
+  {
+
+  },
+]
