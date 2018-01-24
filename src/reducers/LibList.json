@@ -20,6 +20,18 @@
    "description": "In computer science, concurrency refers to the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems. In more technical terms, concurrency refers to the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units" 
   },
   {
-
+   "id":4,
+   "title": "The Tesla Equation",
+   "description": "THE TESLA EQUATION: TL = mc^2 \n The field is made from individual yet connected particles and conforms to whatever shape it is surrounding. So light traveling through a curved field (like the Earth or Sun) will of course curve. \n The particles are connected -- that creates a field. The field has tension on it so vibrations can easily travel through it on the strings."
   },
+  {
+    "id":5,
+   "title": "WiTricity",
+   "description": "The term WiTricity was used for a project that took place at MIT, led by Marin Soljačić in 2006.[1][2] The MIT researchers successfully demonstrated the ability to power a 60 watt light bulb wirelessly, using two 5-turn copper coils of 60 cm (24 in) diameter, that were 2 m (7 ft) away, at roughly 45% efficiency.[3] The coils were designed to resonate together at 9.9 MHz (wavelength ≈ 30 m) and were oriented along the same axis. One was connected inductively to a power source, and the other one to a bulb. The setup powered the bulb on, even when the direct line of sight was blocked using a wooden panel. Researchers were able to power a 60 watt light bulb at roughly 90% efficiency at a distance of 3 feet[citation needed]. The research project was spun off into a private company, also called WiTricity."
+  },
+  {
+   "id":5,
+   "title": "Random Riddle",
+   "description": "If my friend is 1/2 my age when i was 6, and now im 72, how old is my frined? :)"
+  }
 ]
