@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
 
 class LibList extends Component {
   render() {
@@ -6,4 +7,4 @@ class LibList extends Component {
   }
 }
 
-export default Liblist;
+export default connect()(Liblist);
