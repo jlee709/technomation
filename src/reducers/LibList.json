@@ -5,33 +5,38 @@
     "description": "Bitcoin is a cryptocurrency and worldwide payment system.[9]:3 It is the first decentralized digital currency, as the system works without a central bank or single administrator.[9]:1[10] The network is peer-to-peer and transactions take place between users directly, without an intermediary.[9]:4 These transactions are verified by network nodes through the use of cryptography and recorded in a public distributed ledger called a blockchain. Bitcoin was invented by an unknown person or group of people under the name Satoshi Nakamoto[11] and released as open-source software in 2009.[12]" 
   },
   {
-    "id":1,
+    "id": 1,
     "title": "Smart-Contracts",
     "description": "Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network. Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism. They render transactions traceable, transparent, and irreversible."
   },
   {
-    "id":2,
+    "id": 2,
     "title": "IOT",
     "description": "The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction."
   },
   {
-   "id":3,
+   "id": 3,
    "title": "Concurrency",
    "description": "In computer science, concurrency refers to the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems. In more technical terms, concurrency refers to the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units" 
   },
   {
-   "id":4,
+   "id": 4,
    "title": "The Tesla Equation",
    "description": "THE TESLA EQUATION: TL = mc^2 \n The field is made from individual yet connected particles and conforms to whatever shape it is surrounding. So light traveling through a curved field (like the Earth or Sun) will of course curve. \n The particles are connected -- that creates a field. The field has tension on it so vibrations can easily travel through it on the strings."
   },
   {
-    "id":5,
+    "id": 5,
    "title": "WiTricity",
    "description": "The term WiTricity was used for a project that took place at MIT, led by Marin Soljačić in 2006.[1][2] The MIT researchers successfully demonstrated the ability to power a 60 watt light bulb wirelessly, using two 5-turn copper coils of 60 cm (24 in) diameter, that were 2 m (7 ft) away, at roughly 45% efficiency.[3] The coils were designed to resonate together at 9.9 MHz (wavelength ≈ 30 m) and were oriented along the same axis. One was connected inductively to a power source, and the other one to a bulb. The setup powered the bulb on, even when the direct line of sight was blocked using a wooden panel. Researchers were able to power a 60 watt light bulb at roughly 90% efficiency at a distance of 3 feet[citation needed]. The research project was spun off into a private company, also called WiTricity."
   },
   {
-   "id":6,
+   "id": 6,
    "title": "Random Riddle",
    "description": "If my friend is 1/2 my age when i was 6, and now im 72, how old is my frined? :)"
+  },
+  {
+    "id": 7,
+    "title": "Katana",
+    "description": " Legendary sword form the the fedal Japan age, the Katana is said to be one of the most elegantly crafted weapons in history. The blend between layered steel ability to cut and light weight made it a deadly combination in combat"
   }
 ]
