@@ -7,7 +7,7 @@ import LibList from './components/LibList';
 
 const App = () => {
   return (
-    <Provider store={createStore}>
+    <Provider store={createStore(reducers)}>
       <View>
         <Header headerText="Technomation" />
         <LibList />
