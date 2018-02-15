@@ -1,4 +1,4 @@
-import data from './LibReducer.json';
+import data from './LibList.json';
 
 
 export default () => data;
