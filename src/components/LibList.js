@@ -15,17 +15,13 @@ class LibList extends Component {
 
   renderRow(library){
     return <ListItem library={library} />;
-  }
 } 
 
   render(){
-    return(
-      <ListView 
-      dataSource={this.dataSource}
-      renderRow={this.renderRow}
-      />);
+    return <ListView dataSource={this.dataSource} renderRow={this.renderRow} />;
   }
-}
+  
+
 
 const mapStateToProps = state => {
   return {libraries: state.libraries};
