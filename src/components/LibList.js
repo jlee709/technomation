@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { FlatList } from 'react-native';
+import { FlatList, View, Text, List } from 'react-native';
 import ListItem from './ListItem';
 
 
@@ -15,7 +15,7 @@ class LibList extends Component {
   }
 
   renderRow(library){
-    return <ListItem library={library} />;
+    return <FlatList library={library} />;
   }
 
   render(){
@@ -26,9 +26,10 @@ class LibList extends Component {
     );
   }
 }
+console.log(this.state, 'hehe');
 
 const mapStateToProps = state => {
-  return {libraries: state.libraries};
+  return {libraries: state.library};
 };
 
 export default connect(mapStateToProps)(LibList);
