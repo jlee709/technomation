@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { FlatList, View, Text, List } from 'react-native';
+import { FlatList, View, Text } from 'react-native';
 import ListItem from './ListItem';
 
 

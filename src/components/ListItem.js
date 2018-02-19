@@ -15,7 +15,7 @@ class ListItem extends Component{
     );
   }
 }
-
+console.log(this.props, 'ajhadfasdfasfs');
 const styles = {
 
 }
