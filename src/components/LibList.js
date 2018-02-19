@@ -1,27 +1,31 @@
 import React, { Component } from 'react';
-import { ListView } from 'react-native';
-import ListItem from './ListItem';
 import { connect } from 'react-redux';
+import { FlatList } from 'react-native';
+import ListItem from './ListItem';
+
 
 class LibList extends Component {
 
   componenetWillMount(){
-    const ds = new ListView.DataSource({
+    const ds = new FlatList.DataSource({
       rowHasChanged: (r1, r2) => r1 !== r2
     });
     
-    this.dataSource = ds.cloneWithRows(this.props.libraries);
+    this.DataSource = ds.cloneWithRows(this.props.libraries);
   }
 
   renderRow(library){
     return <ListItem library={library} />;
-} 
+  }
 
   render(){
-    return <ListView dataSource={this.dataSource} renderRow={this.renderRow} />;
+    return(
+      <FlatList 
+      dataSource={this.dataSource} 
+      renderRow={this.renderRow} />
+    );
   }
-  
-
+}
 
 const mapStateToProps = state => {
   return {libraries: state.libraries};
