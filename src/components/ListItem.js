@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Text, View } from 'react-native';
 import { CardSection } from './common';
-
+import { data } from './LibList';
 
 class ListItem extends Component{
   render(){
