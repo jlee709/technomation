@@ -7,9 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "metro": "^0.24.6",
+    "metro": "^0.42.2",
     "react": "16.2.0",
-    "react-native": "^0.52.1",
+    "react-native": "^0.56.0",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2"
   },
